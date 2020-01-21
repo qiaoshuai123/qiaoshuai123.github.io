@@ -23,6 +23,9 @@ Email: <a href="mailto:16601222261@163.com">16601222261@163.com</a>
 
 <center>扫下方付款二维码即可向作者捐赠!</center>
 
+
+![wechat](https://qiaoshuai123.github.io/pay/mychat.png)
+
 ![wechat](https://qiaoshuai123.github.io/pay/wechat.png)
 
 <!-- ![pay](https://atlinker.cn/pay/apay.png) -->
