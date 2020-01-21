@@ -1,0 +1,5 @@
+valine_comment:
+  enable: true
+  leancloud_appid: 4am6sxWoTFDIWGMn8cGP119h-gzGzoHsz
+  leancloud_appkey: 9nv15jz9DcJgqABx2BGexD6m
+  placeholder: 说点什么...
